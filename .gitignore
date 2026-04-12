@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model Weights (Crucial to ignore)
+SadTalker/checkpoints/
+Wav2Lip/checkpoints/
+Wav2Lip/face_detection/detection/sfd/
+weights/
+
+# Generated Media
+*.mp4
+*.wav
+*.avi
+
+# OS
+.DS_Store
+Thumbs.db
