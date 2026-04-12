@@ -1,0 +1,5 @@
+librosa==0.8.0
+numpy==1.23.5
+opencv-python
+numba
+tqdm
